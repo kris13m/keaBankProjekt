@@ -1,5 +1,5 @@
 function Bankside(){
-    const balance = 18200; // hardcoded balance
+    let balance : number = 18200; // hardcoded balance
 
     return(
         <p>min bankbalance: {balance}</p>
