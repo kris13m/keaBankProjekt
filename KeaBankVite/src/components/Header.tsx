@@ -1,7 +1,7 @@
 function Header(){
     return(
         <header>
-            Min Bankd
+            Min Bank
         </header>
     );
 }
